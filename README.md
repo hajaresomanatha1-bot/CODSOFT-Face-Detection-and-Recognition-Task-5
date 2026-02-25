@@ -3,8 +3,7 @@ This project was developed as part of the CodSoft AI Internship. The objective o
 ## 📸 Output Screenshots
 
 ### Output 1
-![Output 1](Output 1.png)
+![Output 1](output-1.png)
 
 ### Output 2
-![Output 2](Output 2.png)
-
+![Output 2](output-2.png)
