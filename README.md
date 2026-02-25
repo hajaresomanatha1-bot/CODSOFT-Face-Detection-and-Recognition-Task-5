@@ -7,4 +7,3 @@ This project was developed as part of the CodSoft AI Internship. The objective o
 
 ### Output 2
 ![Output 2](output-2.png)
-
